@@ -1,4 +1,4 @@
-npx create-expo-app@latest ExpoRouterTest01App
+npx create-expo-app@latest ExpoRouterTest02App
 npm run reset-project -n
 # Welcome to your Expo app 👋
 
